@@ -1,7 +1,7 @@
 Font Awesome CSS content values
 ===============
 
-Introducir iconos de la libreria Font Awesome a la hoja de estilos CSS 
+Introducir iconos de la libreria FontAwesome [http://fontawesome.io/] a la hoja de estilos CSS 
 
 ## Ejemplo práctico
 
